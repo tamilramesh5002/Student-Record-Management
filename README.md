@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System
 
 ## Project Description
@@ -61,5 +62,8 @@ Not applicable. This is a software-based project developed using C programming.
 
 ## Author
 
-**Kanika Sri N.**
+**TAMIL R.**
 # Student-Record-Management
+=======
+# Student-Record-Management
+>>>>>>> ghp_XXXXXXXXXXXXXXXXXXXXXXXX
